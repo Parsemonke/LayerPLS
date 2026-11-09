@@ -6,7 +6,7 @@ LayerPLS finds the players in your zone with `/who` and whispers them one at a t
 
 - Everyone: your whole zone
 - Avoid Nearby: your zone, except your current subzone
-- -5 / +5 Levels: players up to 5 levels below or above you
+- +5 / -5 Levels: players up to 5 levels below or above you
 
 Leave your group, click a button and accept the invite. Then click Zone Refresh next to the party frame and choose Refresh Now before you leave the group.
 
