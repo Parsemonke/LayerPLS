@@ -1,5 +1,8 @@
 LayerPLS finds the players in your zone with `/who` and whispers them one at a time for a layer invite, stopping as soon as someone invites you. They don't need the addon. 
+
+
 <img src="Media/Portrait.png" alt="Alt text" width="100" height="100">  
+
 
 - Everyone: your whole zone
 - Avoid Nearby: your zone, except your current subzone
